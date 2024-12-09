@@ -3,6 +3,12 @@
 **ARIA**: **A**utomated **R**elay **I**ntelligence **A**ssistant  
 **Status**: **Pre-release**
 
+## Version 2.1.3
+- Included a new weather command to get current weather information for a specified city
+    - Usage: `ARIA, weather <city>`
+- Included a new time zone command to set the current timezone for the server (features to come)
+    - Usage: `ARIA, set timezone <timezone>` / `ARIA, list timezone`
+
 ## Version 2.1.2
 - Fixed an error in the list command where it would not correctly identify added channels
 
