@@ -3,6 +3,9 @@
 **ARIA**: **A**utomated **R**elay **I**ntelligence **A**ssistant  
 **Status**: **Pre-release**
 
+## Version 2.1.2
+- Fixed an error in the list command where it would not correctly identify added channels
+
 ## Version 2.1.1
 - Updated the changelog so that it redirects to GitHub instead of exceeding the Discord message limit
 
@@ -53,3 +56,5 @@ Pre-release!
 
 ## Version 1.0.0
 - Initial release based on PixieBot framework
+
+For more information, type `ARIA, help`.
