@@ -53,5 +53,3 @@ Pre-release!
 
 ## Version 1.0.0
 - Initial release based on PixieBot framework
-
-For more information, type `ARIA, help`.
