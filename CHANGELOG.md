@@ -1,7 +1,23 @@
 # Changelog
 
 **ARIA**: **A**utomated **R**elay **I**ntelligence **A**ssistant  
-**Status**: **Beta Testing**
+**Status**: **Pre-release**
+
+## Version 2.1.1
+- Updated the changelog so that it redirects to GitHub instead of exceeding the Discord message limit
+
+## Version 2.1.0
+Pre-release!
+- Switched from YouTube API to RSS for YouTube channel monitoring to mitigate API quota issues
+- Integrated Google's Generative AI for chat functionality with the new 'ARIA, ai' command
+
+## Version 2.0.6
+- Fixed an issue where ARIA would notify non stop when more than one YouTube channel was added
+- Staggered the requests for YouTube API to prevent going over the quota (every 15 minutes instead of every minute)
+
+## Version 2.0.5
+- Fixed an issue where ARIA would search on YouTube instead of using the channel, going overboard on the API quota
+- Added an auto updater to check for updates on boot (dev)
 
 ## Version 2.0.4
 - Fixed an issue where Letterboxd would repeatedly notify about the same review
@@ -37,3 +53,5 @@
 
 ## Version 1.0.0
 - Initial release based on PixieBot framework
+
+For more information, type `ARIA, help`.
