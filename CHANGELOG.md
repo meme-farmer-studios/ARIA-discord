@@ -3,6 +3,9 @@
 **ARIA**: **A**utomated **R**elay **I**ntelligence **A**ssistant  
 **Status**: **Pre-release**
 
+## Version 2.1.4
+- Fixed formatting issue with indentation in commands
+
 ## Version 2.1.3
 - Included a new weather command to get current weather information for a specified city
     - Usage: `ARIA, weather <city>`
@@ -62,5 +65,3 @@ Pre-release!
 
 ## Version 1.0.0
 - Initial release based on PixieBot framework
-
-For more information, type `ARIA, help`.
