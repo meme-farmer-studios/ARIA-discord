@@ -12,5 +12,3 @@ ARIA is a versatile Discord bot designed to assist with various tasks including 
 - Automated updates and restarts
 
 ARIA, the character ARIA, the character Momentum, and all related assets are the intellectual property of meme farmer studios, a registered New Zealand business.
-
-**Version:** 2.0.4
