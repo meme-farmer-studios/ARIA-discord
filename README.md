@@ -1,4 +1,4 @@
-# **ARIA** - **A**utomated **R**elay **I**ntelligence **A**ssistant**
+# **ARIA** - **A**utomated **R**elay **I**ntelligence **A**ssistant
 
 ARIA is a versatile Discord bot designed to assist with various tasks including managing Twitch and YouTube notifications, user permissions, and more.
 
