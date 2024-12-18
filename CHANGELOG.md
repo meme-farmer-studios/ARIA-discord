@@ -1,7 +1,22 @@
 # Changelog
 
-**ARIA**: **A**utomated **R**elay **I**ntelligence **A**ssistant  
-**Status**: **Pre-release**
+**ARIA**: **A**utomated **R**elay **I**ntelligence **A**ssistant
+
+**Version 2.3.0**
+- Significantly upgraded the AI system, upping the quota and readjusting the model
+- Completely fixed the notification system
+- Added a Would You Rather? game
+ - Usage: `ARIA, wyr`/ `ARIA, wyr <option 1> or <option 2>`
+- Various bug fixes and clean ups
+
+**Version 2.2.5**
+- Rewrote the notification system, fixing various bugs and improving performance
+- Various big fixes
+
+**Version 2.2.4**
+- Introducting AI image generation with the `ARIA, image` command!
+    - Usage: `ARIA, image <model> <prompt>`
+    - Summon ARIA's nanobees to pollinate an image to your liking
 
 ## Version 2.1.4
 - Fixed formatting issue with indentation in commands
